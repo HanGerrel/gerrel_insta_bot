@@ -8,8 +8,7 @@ verify_ssl = true
 [packages]
 requests = "*"
 instaloader = "*"
-telebot = "*"
 pytelegrambotapi = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.8.3"
